@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# POSTY
 
 Desenvolvido em React.js para um teste de Front End Developer
 
