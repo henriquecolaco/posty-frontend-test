@@ -1,0 +1,22 @@
+.alert-box-main{
+    width: 100%;
+    height: 40px;
+    background-color: #00cbe2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /*border-bottom: solid 3px #00cbe2;*/
+}
+
+.alert-box-main > span{
+    color: #040429;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
